@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Calculator_App</string>
-    <string name="first_num_hint">Enter first number here</string>
-    <string name="second_num_hint">Enter second number here</string>
-    <string name="answer">Answer: %1$.2f</string>
+    <string name="first_num_hint">First num</string>
+    <string name="second_num_hint">Second num</string>
+    <string name="answer">Answer: ---</string>
 </resources>

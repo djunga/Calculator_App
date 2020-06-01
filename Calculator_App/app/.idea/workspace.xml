@@ -7,6 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f20e0ff-b6b4-4772-9631-9f589e0d3634" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/calculator_app/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/calculator_app/MainActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/strings.xml" afterDir="false" />
     </list>
@@ -42,8 +47,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../highlowgame/High_Low_Game" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
     <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
@@ -165,5 +170,35 @@
       <updated>1590960343390</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="187" key="FileChooserDialogImpl" timestamp="1590965207888">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="580" y="187" key="FileChooserDialogImpl/62.0.1474.864@62.0.1474.864" timestamp="1590965207888" />
+    <state width="1429" height="150" key="GridCell.Tab.0.bottom" timestamp="1590978396536">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1429" height="150" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1590978396536" />
+    <state width="1429" height="150" key="GridCell.Tab.0.center" timestamp="1590978396536">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1429" height="150" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1590978396536" />
+    <state width="1429" height="150" key="GridCell.Tab.0.left" timestamp="1590978396535">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1429" height="150" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1590978396535" />
+    <state width="1429" height="150" key="GridCell.Tab.0.right" timestamp="1590978396536">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1429" height="150" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1590978396536" />
+    <state x="308" y="75" key="SettingsEditor" timestamp="1590978304830">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="308" y="75" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1590978304830" />
+    <state x="458" y="85" width="670" height="676" key="search.everywhere.popup" timestamp="1590965412656">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="458" y="85" width="670" height="676" key="search.everywhere.popup/62.0.1474.864@62.0.1474.864" timestamp="1590965412656" />
   </component>
 </project>
